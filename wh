@@ -1,5 +1,5 @@
-local id = {
+local swagmins = {
   3832953855 -- o
 }
 
-return id;
+return swagmins;
